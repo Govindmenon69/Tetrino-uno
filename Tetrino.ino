@@ -1,4 +1,17 @@
+/*  
 
+  ______________________  __  _______   ______              __  ___   ______ 
+ /_  __/ ____/_  __/ __ \/ / / /  _/ | / / __ \            / / / / | / / __ \
+  / / / __/   / / / /_/ / / / // //  |/ / / / /  ______   / / / /  |/ / / / /
+ / / / /___  / / / _, _/ /_/ // // /|  / /_/ /  /_____/  / /_/ / /|  / /_/ / 
+/_/ /_____/ /_/ /_/ |_|\____/___/_/ |_/\____/            \____/_/ |_/\____/  
+                                                                             
+
+   -Made by Govind Menon
+   - You are free to reuse 
+   - also if you are new to this kindly read the readme.md file in the repo and happy tinkering 😊 
+   
+*/
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
