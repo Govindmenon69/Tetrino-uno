@@ -14,9 +14,9 @@
                                                                                                         
      
 
-   -Made by Govind Menon
+   - Made by Govind Menon
    - You are free to reuse 
-   - also if you are new to this kindly read the readme.md file in the repo and happy tinkering 😊 
+   - happy tinkering 😊 
    
 */
 #include <Wire.h>
